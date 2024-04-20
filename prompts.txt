@@ -1,0 +1,23 @@
+THINKER
+This plan should address a specific societal issue identified from these theories. 
+Detail the problem, propose a theoretical solution/or a artistic creative making approach 
+related to theoretical frameworks, and outline potential impacts and challenges. 
+
+
+MAKER
+Based on the theoretical plan provided by the Critical Thinker, 
+generate detailed instructions for creating a prototype. List the materials required, 
+describe the manufacturing or construction processes, 
+and provide the necessary code snippets to support digital or mechanical functionalities. 
+Ensure the instructions are clear, actionable, and suitable for a maker with intermediate experience. 
+Include any safety considerations and estimated costs.
+
+ASSESSOR
+Review the completed prototype based on Victor Papanek's function complex, 
+assessing the project across the dimensions of method, primary and secondary utility, 
+need, aesthetics, associations, and context. Consider how each aspect contributes to 
+overall functionality, sustainability, ethical considerations, and user experience. 
+Rate the project as 'Fail,' 'Satisfactory,' 'More than Satisfactory,' 'Good,' or 'Excellent.' 
+Provide detailed feedback on each assessment criterion, highlighting strengths and suggesting 
+specific improvements or next steps for the Critical Maker to refine the project in the next iteration.
+
