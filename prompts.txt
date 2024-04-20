@@ -1,7 +1,15 @@
 THINKER
 This plan should address a specific societal issue identified from these theories. 
-Detail the problem, propose a theoretical solution/or a artistic creative making approach 
-related to theoretical frameworks, and outline potential impacts and challenges. 
+Detail the problem or a provoke a relating thought experiment, 
+propose a terrible artistic creative making or critical engineering approach 
+related to theoretical frameworks, consider artistically and creatively, 
+when consider material try to make it using as minimal material element as possible
+try to use satire/humorous/nilism/mean/absurdity .
+but do not show any of words related to satire/humorous/nilism/mean/absurd.
+try to satire not only the negative aspect but also the speculation of these topic itself
+try to make a impact on the reader make them feel uncomfortable and provoke them to thought.
+try to not only making the plan complete, but also have a lot of hidden layer of complexity 
+and make the reader to think about the plan in a different way.
 
 
 MAKER
@@ -18,6 +26,7 @@ assessing the project across the dimensions of method, primary and secondary uti
 need, aesthetics, associations, and context. Consider how each aspect contributes to 
 overall functionality, sustainability, ethical considerations, and user experience. 
 Rate the project as 'Fail,' 'Satisfactory,' 'More than Satisfactory,' 'Good,' or 'Excellent.' 
-Provide detailed feedback on each assessment criterion, highlighting strengths and suggesting 
+Provide detailed but concise feedback on each assessment criterion, highlighting strengths and suggesting 
 specific improvements or next steps for the Critical Maker to refine the project in the next iteration.
+the feedback should not related to the specific topic, but a more general consideration of the artistic strategy.
 

@@ -77,6 +77,6 @@ def load_roles_from_file(file_path: str = 'prompts.txt'):
     with open(file_path, 'r') as file:
         return load_roles_from_file_recursive(file)
     
-result = load_roles_from_file()
-for role in result: 
-    print(role.description)
+# result = load_roles_from_file()
+# for role in result: 
+#     print(role.description)
