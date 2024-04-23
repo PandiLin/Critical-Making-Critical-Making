@@ -70,9 +70,9 @@ enter the directory and then run
 python main.py <start-time> <time-scale> <mode>
 ```
 
-<start-time> might be something like “03:30:00”
+start-time should be something like “03:30:00”
 
-<mode> might be “test” “cpfighter” “normal”
+mode should be  “test” “cpfighter” or “normal”
 
 
 # DO WHAT THE FUCK YOU WANT TO
