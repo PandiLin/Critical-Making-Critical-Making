@@ -116,7 +116,7 @@ def test_print():
     offset = 15  # Number of spaces to offset
     print_string_with_lpr(text_to_print,font_size=8, offset=offset)
 
-#TODO: ALARM MODE
+#TODO: ALARM MODEgi
 try:
     start_execute_time = sys.argv[1]
     rest_time = int(sys.argv[2])

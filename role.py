@@ -1,5 +1,6 @@
 from expression import Some, Nothing, Option, pipe
 import random
+from typing import TextIO
 
 class Role: 
     def __init__(self, description: str): 
@@ -13,7 +14,7 @@ class Thinker(Role):
         super().__init__(description)
         self.framework_theory = ["post_capitalism", "post_humanism", "post_modernism", "ecology", "psychology", "gender_theory",
                                  "psychology_of_healing", "psycho_analysis", "critical theory", "queer theory", "community healing", 
-                                 "symbiosis"]
+                                 "symbiosis", "home", "homelessness", "artificial intelligence", "religion", "accelerationism", "healing"]
         
     def random_get_one_from_framework_theory(self): 
         return random.choice(self.framework_theory)
@@ -39,11 +40,11 @@ class Assessor(Role):
     
     def generate_prompt(self, last_input: str): 
         # framework theory
-        plan_articulation = "Given the plan and execution" + last_input 
+        plan_articulation = "Given the plan and execution:" + last_input 
         return f"{plan_articulation} {self.description}"
 
-def load_roles_from_file_recursive(file):
 
+def load_roles_from_file_recursive(file):
     def set_description(role: str, description: str):
         match role: 
             case "THINKER": 
@@ -53,7 +54,7 @@ def load_roles_from_file_recursive(file):
             case "ASSESSOR": 
                 return Assessor(description)
 
-    def lc(file, roles: list, current_role: Option[str], description: str):
+    def lc(file: TextIO, roles: list, current_role: Option[str], description: str):
         line = file.readline()
         if line == "":
             if current_role is None:
