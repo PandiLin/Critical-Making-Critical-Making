@@ -73,3 +73,9 @@ python main.py <start-time> <time-scale> <mode>
 <start-time> might be something like “03:30:00”
 
 <mode> might be “test” “cpfighter” “normal”
+
+
+# DO WHAT THE FUCK YOU WANT TO
+all the code is open sourced under DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+
+it’s free to do everything with them, including remaking them
