@@ -79,3 +79,8 @@ mode should be  “test” “cpfighter” or “normal”
 all the code is open sourced under DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
 
 it’s free to do everything with them, including remaking them
+
+
+# Documentation
+
+https://drive.google.com/file/d/1FpZ7yOwYIpLgia1lDUOKFJpUeIXeYbGs/view?usp=sharing
